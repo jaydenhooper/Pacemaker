@@ -16,3 +16,5 @@ The intention behind this project is to gain experience and dive into the challe
 - [Jennifer Li](https://github.com/jennifer-hy-li)
 - [Angeline Segado](https://github.com/a-segado)
 - [Arnur Seken](https://github.com/Arunima03)
+- [Sai Kurra](https://github.com/satwika-kurra)
+- [Hala Zoubi](https://github.com/halazoubi)
